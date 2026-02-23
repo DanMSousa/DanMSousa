@@ -12,9 +12,11 @@
 <br>
 
 ## ⚙️ &nbsp;GitHub Analytics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanMSousa&hide=jupyter%20notebook)](https://github.com/DanMSousa/github-readme-stats)
+https://github-readme-stats.vercel.app/api?username=danmsousa&show_icons=true
 
-<!--<img src="https://github-readme-stats.vercel.app/api?username=DaniellSousa&show_icons=true"/>-->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=danmsousa&show_icons=true&theme=radical)
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=danmsousa&count_private=true
 
 <br><br>
 
