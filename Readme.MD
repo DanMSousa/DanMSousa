@@ -11,14 +11,14 @@
 
 <br>
 
-## ⚙️ &nbsp;GitHub Analytics
-https://github-readme-stats.vercel.app/api?username=danmsousa&show_icons=true
+## ⚙️ GitHub Analytics
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=danmsousa&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danmsousa&show_icons=true&theme=radical&count_private=true)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=danmsousa&count_private=true
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danmsousa&layout=compact&count_private=true&theme=radical)
 
 <br><br>
+
 
 ## Contact
 
